@@ -1,4 +1,4 @@
-package com.advanto.Implemented;
+package com.hibernate.Implemented;
 
 import java.util.Date;
 import java.util.List;
@@ -9,11 +9,11 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 
-import com.adanto.Configuration.Connection;
-import com.advanto.Entity.Buses;
-import com.advanto.Entity.RegisteredUsers;
-import com.advanto.Entity.User;
-import com.advanto.UnImplemented.TRPInterface;
+import com.hibernate.Configuration.Connection;
+import com.hibernate.Entity.Buses;
+import com.hibernate.Entity.RegisteredUsers;
+import com.hibernate.Entity.User;
+import com.hibernate.UnImplemented.TRPInterface;
 
 public class TRPClass implements TRPInterface {
 

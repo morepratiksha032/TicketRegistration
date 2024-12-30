@@ -1,8 +1,8 @@
-package com.advanto;
+package com.hibernate;
 
 import java.util.Scanner;
 
-import com.advanto.Implemented.TRPClass;
+import com.hibernate.Implemented.TRPClass;
 
 public class App {
    

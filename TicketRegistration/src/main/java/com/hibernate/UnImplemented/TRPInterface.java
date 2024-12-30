@@ -1,4 +1,4 @@
-package com.advanto.UnImplemented;
+package com.hibernate.UnImplemented;
 
 public interface TRPInterface {
 

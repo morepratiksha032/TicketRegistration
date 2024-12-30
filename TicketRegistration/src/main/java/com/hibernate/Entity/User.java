@@ -1,4 +1,4 @@
-	package com.advanto.Entity;
+	package com.hibernate.Entity;
 
 	import javax.persistence.Entity;
 	import javax.persistence.GeneratedValue;

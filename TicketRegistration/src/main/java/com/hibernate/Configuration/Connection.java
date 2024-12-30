@@ -1,4 +1,4 @@
-package com.adanto.Configuration;
+package com.hibernate.Configuration;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
